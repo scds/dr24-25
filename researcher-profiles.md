@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing Research Impact: Establishing and Maintaining Researcher Profiles
+title: Establishing and Maintaining Researcher Profiles
 nav_order: 2024.792
 ---
 
