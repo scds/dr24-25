@@ -8,15 +8,15 @@ nav_order: 1900
 
 # Visualizing Your Research Impact
 
-The ability to create effective visualizations of your research impact is a valuable skill when competing for grants, awards, and attention in a crowded research landscape.  In this workshop we will explore best practices for generating simple, eye-catching graphics to communicate your impact from a variety of perspectives (from citation rates to collaboration networks to media attention).
+The San Francisco Declaration on Research Assessment (DORA) establishes a holistic approach to understanding research impact and asserts its signatories’ commitment to responsible research assessment.  In this session, panelists will discuss DORA’s implications for researchers and administrators and provide recommendations for optimizing research impact reporting in a post-DORA world.  
 
-Attendees will learn how to: 1) Generate ready-made impact visualizations within a variety of bibliometric tools at McMaster.  2) Utilize raw bibliometric data to create custom visualizations within a variety of tools (Excel, VosViewer, Datawrapper).  3) Effectively incorporate research impact visualizations into reports, grant applications, and award nominations. 
+Attendees will understand: 1) The key recommendations of DORA.  2) DORA’s implications for future funding opportunities and research impact reporting.  3) The resources available at McMaster to support researchers and administrators in their adherence to DORA principles. 
 
 [Register for this workshop](.){: .btn .btn-outline }
 
 ## Workshop Preparation 
 
-Review the webinar recording for [Optimizing Research Impact: Establishing and Maintaining Research Profiles](https://learn.scds.ca/dr24-25/researcher-profiles.html).
+Read the DORA pricinples [here](https://sfdora.org/read/).
 
 ## Facilitator Bios
 
