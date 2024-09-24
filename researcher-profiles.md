@@ -4,7 +4,7 @@ title: Establishing and Maintaining Researcher Profiles
 nav_order: 2024.792
 ---
 
-<img src="assets/img/researcher-profiles.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/researcher-profile.png" alt="Workshop Title Slide" width="100%">
 
 # Optimizing Research Impact: Establishing and Maintaining Researcher Profiles
 
@@ -18,10 +18,6 @@ Attendees will learn how to:
 3. Generate basic research impact reports using profile data.
 
 [Register for this workshop](.){: .btn .btn-outline }
-
-## Workshop Preparation 
-
-None.
 
 ## Facilitator Bios
 

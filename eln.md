@@ -14,10 +14,6 @@ By the end of this workshop, participants will understand common features and fu
 
 [Register for this workshop](.){: .btn .btn-outline }
 
-## Workshop Preparation 
-
-None.
-
 ## Facilitator Bios
 
 Isaac Pratt (he/him) is a research scientist by training and has a PhD in Anatomy & Cell Biology. He leverages nearly a decade of interdisciplinary research experience to help support students, staff, and faculty. His expertise lies in questions surrounding data storage, security, planning, archival, and sharing. Isaac also provides support and curation services for McMaster Dataverse. His other interests include reproducible research methods, open science, and data science.
