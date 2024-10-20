@@ -17,10 +17,13 @@ Attendees will learn how to:
 2. Automate the initial population and maintenance of their research profile(s). 
 3. Generate basic research impact reports using profile data.
 
-[Register for this workshop](.){: .btn .btn-outline }
-
 ## Facilitator Bios
 
 Jack Young (he/him) is McMaster’s Research Impact Librarian, supporting the use of bibliometric data to enhance the reporting and strategic planning practices of the University’s academic departments, institutes, and researchers.
 
 Sabrina Kirby (she/her) is the Research Technology Analyst for the McMaster Experts service, providing support to researchers and research administrations working with their Experts profiles and the various systems and integrations that comprise McMaster Experts.
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/5418936a-5bbb-4ee1-b8da-a6623ff4e62f/public"></iframe>
+[View original here.](https://echo360.ca/media/5418936a-5bbb-4ee1-b8da-a6623ff4e62f/public)
