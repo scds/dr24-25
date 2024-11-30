@@ -15,8 +15,6 @@ Attendees will learn how to:
 2. Utilize raw bibliometric data to create custom visualizations within a variety of tools (Excel, VosViewer, Datawrapper).
 3. Effectively incorporate research impact visualizations into reports, grant applications, and award nominations. 
 
-[Register for this workshop](.){: .btn .btn-outline }
-
 ## Workshop Preparation 
 
 Review the webinar recording for [Optimizing Research Impact: Establishing and Maintaining Research Profiles](https://learn.scds.ca/dr24-25/researcher-profiles.html).
@@ -24,3 +22,8 @@ Review the webinar recording for [Optimizing Research Impact: Establishing and M
 ## Facilitator Bios
 
 Jack Young (he/him) is McMaster’s Research Impact Librarian, supporting the use of bibliometric data to enhance the reporting and strategic planning practices of the University’s academic departments, institutes, and researchers.
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8258fc38-a287-4bf2-8a88-2815e4d1701b/public"></iframe>
+[View original here.](https://echo360.ca/media/8258fc38-a287-4bf2-8a88-2815e4d1701b/public)
